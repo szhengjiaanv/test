@@ -10,6 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md"
+        "_locales/zh/motor-strings.json"
     ],
     "testFiles": [
         "test.ts"
